@@ -1,0 +1,41 @@
+body{
+margin: 0;
+background-color: #30222e;
+}
+h1{
+background-color: #f1f1f1;
+padding: 20px;
+text-align: center;
+color: #30222e;
+   }
+ul{
+	 list-style: none;
+	 color: #1c7033
+
+}
+p{
+color: red;
+text-align: center;
+}
+.Movies{
+	background-color: #f1f1f1;
+padding: 20px;
+text-align: center;
+}
+body{
+	background-image:url("rasm.jpg");
+	background-color: #1c7033;
+text-align: center;
+}
+dl{
+	text-align: center;
+color: #b7a424;
+}
+h2{
+	text-align: center;
+	color: #c1152f;
+}
+a{
+	color: #c1152f;
+
+}
